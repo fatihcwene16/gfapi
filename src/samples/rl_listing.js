@@ -44,7 +44,7 @@ async function main() {
     let query = {
       
         // DO EDIT: Put just 'Key' for example if you are selling one, otherwise write the quantity as so: Item Name | 10x
-        name: 'Keys | 10x',
+        name: 'Cheapest Keys | 10x',
         description: 'Selling cheap keys!',
         price: 1050, // price in cents
         tags: [      // Must use the correct tag for search/filtering to function properly
